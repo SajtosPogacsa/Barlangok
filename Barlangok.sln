@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarlangokCLI", "BarlangokCLI\BarlangokCLI.csproj", "{15619710-321F-4903-89D6-1B5DD9848030}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D9F68FC-17D1-4B13-AB6F-D84C7143AA4B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRC", "SRC", "{6D9F68FC-17D1-4B13-AB6F-D84C7143AA4B}"
 	ProjectSection(SolutionItems) = preProject
 		src\barlangok.txt = src\barlangok.txt
 		src\csharp.txt = src\csharp.txt
