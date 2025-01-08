@@ -36,7 +36,7 @@ var f7grp = barlangok.GroupBy(x => x.Vedettseg);
 
 foreach (var grp in f7grp)
 {
-    Console.WriteLine($"\t{grp.Key,-30}:".Replace(" ", "-") + $" {grp.Count(), 3} db");
+    Console.WriteLine($"\t{grp.Key}:".PadRight(30, '-') + $"> {grp.Count(), 3} db");
 
 }
 
